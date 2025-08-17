@@ -2,8 +2,9 @@
 Este proyecto es una aplicación Laravel 11 que utiliza Filament para gestionar un recurso de países
 
 ## Requisitos
-- [Docker] instalado
+- [Docker] [Docker-compose] instalado
 - [Git] instalado
+- [PHP] 8.2/8.3
 
 ## Instalación
 
